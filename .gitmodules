@@ -1,0 +1,6 @@
+[submodule "video_cluster"]
+	path = video_cluster
+	url = https://github.com/themaddoctor1/Clustering-Background-Subtraction
+[submodule "movie_class"]
+	path = movie_class
+	url = https://github.com/themaddoctor1/IMDB-Naive-Bayes-Classifier
